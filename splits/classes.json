@@ -1,0 +1,10 @@
+{
+  "DIRTY_SOLDER": 0,
+  "NO_JOINT": 1,
+  "NO_WIRE_LINE": 2,
+  "OK": 3,
+  "OVER_WELD": 4,
+  "SOLDER_NOT_OBVIOUS": 5,
+  "WIRE_LINE_OFFSET": 6,
+  "WIRE_RESIDUE": 7
+}
